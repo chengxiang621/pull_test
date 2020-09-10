@@ -5,5 +5,5 @@ main()
 
 metho()
 {
-	print "my name is 小飞牛"
+	print "my name is 小飞牛aa"
 }
